@@ -1,0 +1,4 @@
+﻿  aha_matchstickequation.cpp
+C:\Users\Lenovo\source\repos\aha_matchstickequation\aha_matchstickequation\aha_matchstickequation.cpp(19,6): warning C4101: “a”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\aha_matchstickequation\aha_matchstickequation\aha_matchstickequation.cpp(19,9): warning C4101: “b”: 未引用的局部变量
+  aha_matchstickequation.vcxproj -> C:\Users\Lenovo\source\repos\aha_matchstickequation\x64\Debug\aha_matchstickequation.exe
